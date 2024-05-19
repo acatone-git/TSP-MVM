@@ -8,7 +8,7 @@ A Quick Music Video Maker for the TrimUI Smart Pro! (MP3 >> MP4 Converter)
 
 - Download & extract the TSP-MVM archive from the [release page](https://github.com/acatone-git/TSP-MVM/releases)
 - Copy the extracted files in the MP3 folder / Album that you wish to convert
-  - If you wish to change the default cover art, simply copy / replace the default image in the folder (jpg / png)
+  - If you wish to change the default cover art, simply copy / replace the default image in the folder
 - Run "TSP-MVM.bat" and follow the on-screen instructions
 - Copy the converted album / folder to the TrimUI Smart Pro
 - Enjoy!
