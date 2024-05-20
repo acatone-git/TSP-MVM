@@ -11,7 +11,7 @@ A Quick "Music Video Maker" for the TrimUI Smart Pro!
   
 ![Example](https://github.com/acatone-git/TSP-MVM/assets/67967964/ef6418ae-17ba-4855-8369-60ca6a669445)
 
-- If you wish to change the default cover art, simply copy another image (JPG/PNG) into the folder.
+- If you wish to change the default cover art, simply copy another image (JPG/PNG) into the same folder.
 - Run "TSP-MVM.bat" & follow the on-screen instructions
   - **The "Final Cleanup" will delete everything in the folder except for the MP4 files**
     ![Example-2](https://github.com/acatone-git/TSP-MVM/assets/67967964/f444122a-6753-4dd9-b97f-fd8acbea0d5d)
