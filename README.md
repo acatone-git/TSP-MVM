@@ -16,7 +16,7 @@ A Quick "Music Video Maker" for the TrimUI Smart Pro!
   - **The "Final Cleanup" will delete everything in the folder except for the MP4 files**
     ![Example-2](https://github.com/acatone-git/TSP-MVM/assets/67967964/f444122a-6753-4dd9-b97f-fd8acbea0d5d)
 - Create a "Music" folder on the TSP & copy all your converted albums into it
-- Open the Media Player on the TSP & Enjoy Your Music!
+- Open the Media Player & Enjoy Your Music!
 
 # Credits & Thanks
 
