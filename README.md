@@ -1,13 +1,13 @@
 # TSP-MVM
 
-A Quick "Music Video Maker" for the TrimUI Smart Pro! (AKA MP3 >> MP4 Video Converter)
+A Quick "Music Video Maker" for the TrimUI Smart Pro!
 
 ![demo](https://github.com/acatone-git/TSP-MVM/assets/67967964/af94e90e-1d01-41b9-a95d-0063a4524ac6)
 
 # Instructions
 
 - Download the TSP-MVM archive from the [release page](https://github.com/acatone-git/TSP-MVM/releases)
-- Extract the TSP-MVM archive into the MP3 folder / Album that you wish to convert (as example below)
+- Extract the TSP-MVM archive into the Music folder / Album that you wish to convert (as example below)
   
 ![Example](https://github.com/acatone-git/TSP-MVM/assets/67967964/ef6418ae-17ba-4855-8369-60ca6a669445)
 
