@@ -7,8 +7,11 @@ for %%f in (*.jpg *.png) do (
     ffmpeg -loglevel panic -i "%%f" -y -vf "scale=640:360:force_original_aspect_ratio=decrease,pad=640:360:-1:-1:color=black" "cover.jpg"
 )
 echo Converting Audio to Video...
-for %%G in (*.mp3 *.ogg *.flac *.wav) do (
+for %%G in (*.ogg *.flac *.wav) do (
     ffmpeg -loglevel panic -y -loop 1 -i cover.jpg -i "%%G" -c:v libx264 -tune stillimage -c:a mp3 -pix_fmt yuv420p -shortest "%%~nG.mp4"
+)
+for %%H in (*.mp3) do (
+    ffmpeg -loglevel panic -y -loop 1 -i cover.jpg -i "%%H" -c:v libx264 -tune stillimage -c:a copy -pix_fmt yuv420p -shortest "%%~nH.mp4"
 )
 echo #--------------------------------------#
 echo ---------- Final Cleanup ---------------
